@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: rgb(101, 148, 148);
+
+}
+#oo{
+    height: 60px;
+    background-color: #121212
+    
+}
+#logo{
+    color: rgb(118, 108, 49);
+
+}
+button{
+    color: rgb(90, 82, 39);
+}
+:placeholder-shown{
+    color: rgb(14, 14, 50);
+    margin-left: 130px;
+}
+a{
+    margin-right: 80px;
+    color: white;
+    text-decoration: none;
+}
